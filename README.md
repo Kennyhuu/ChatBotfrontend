@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Source
+https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/
+https://jimmy-wang-gen-ai.medium.com/react-js-chatbot-a-simple-but-complete-mini-react-js-project-e50a5d37a97e
+
+https://stackoverflow.com/questions/78438394/how-to-create-an-ollama-model-using-docker-compose
